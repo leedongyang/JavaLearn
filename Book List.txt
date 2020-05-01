@@ -1,0 +1,6 @@
+Book List
+《Java 8 in Action》
+《Java并发编程的艺术》
+《大型网站技术架构：核心原理与案例分析》
+《Redis深度历险：核心原理与应用实践》
+《RocketMQ实战与原理解析》
